@@ -1,0 +1,10 @@
+{
+  "greetings": ["hello", "hi", "hey", "good morning", "good evening"],
+  "greeting_responses": ["Hello! 😊", "Hi there!", "Hey! How can I help you today?", "Good to see you!"],
+  
+  "farewells": ["bye", "goodbye", "see you", "exit", "quit"],
+  "farewell_responses": ["Goodbye! 👋", "Take care!", "See you later!", "Have a great day!"],
+
+  "thanks": ["thank you", "thanks", "thx"],
+  "thanks_responses": ["You're welcome!", "No problem at all!", "Happy to help 😊"]
+}
